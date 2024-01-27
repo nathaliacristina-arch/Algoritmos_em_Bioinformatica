@@ -1,5 +1,5 @@
-# Algoritmos_em_Bioinform-tica
-Atividades realizadas na UC Algoritmos em Bioinformática
+# Algoritmos_em_Bioinformatica
+Atividades realizadas na UC Algoritmos em Bioinformática. Todos os códigos foram feitos usando a linguagem Python.
 
 
 Atividade 5:
